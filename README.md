@@ -1,5 +1,5 @@
 # UMBC-Faculty-Database-Management_Python
-Created UMBC Faculty database Management. It have the information of Data science and Computer Science department professors details.It will have the option to add, delete and many more functionalities of the personal details of the professor into the university database. Applied Exception handling to tackle the errors using try and Except block in the code.
+Created UMBC Faculty database Management using Python. It have the information of Data science and Computer Science department professors details.It will have the option to add, delete and many more functionalities of the personal details of the professor into the university database. Applied Exception handling to tackle the errors using try and Except block in the code.
 
 Used the OOPS Concept of Inheritence wherever required to Inherit the methods and constructors of parent classes.
 
